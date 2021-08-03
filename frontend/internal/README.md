@@ -1,4 +1,4 @@
-## internal - Студент/Стажор
+## internal - Студент/Стажер
 1. HTML3/HTML5
 2. CSS3
 3. Препроцессоры (SASS/SCSS/LESS)
